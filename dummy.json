@@ -1,0 +1,6 @@
+{
+ "size": [25, 45, 78, 98, 41, 20, 19],
+ "color": ["red", "green", "yellow", "orange", "blue", "black", "pink"],
+ "object": ["a", "g", "e", "j", "u", "t", "g"],
+ "label": [0,0,0,1,1,0,1]
+}
